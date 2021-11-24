@@ -26,7 +26,7 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
     * Go to `Chrome Settings` > Go to `About Chrome` > *See your version*
 * Dowload the version of ChromeDriver that matches your version
     * [ChromeDriver - WebDriver for Chrome - Downloads](https://chromedriver.chromium.org/downloads)
-* Set path of ChromeDriver to your machine
+* Set `path` of ChromeDriver to your machine
     * [Windows](https://www.java.com/en/download/help/path.html)
     * [MacOS](https://www.cyberciti.biz/faq/appleosx-bash-unix-change-set-path-environment-variable/)
 ### How to clone [Vaccine Web Tests](https://github.com/PitchapaSaelim/vaccine-web-tests)
