@@ -64,6 +64,16 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
     ``` 
     > Description of the require packages
     * **robotframework-seleniumlibrary** is a web testing library for Robot Framework. This document explains how to use keywords provided by SeleniumLibrary.
+    
+* Check Robot Version to verify your installation 
+    * Linux/MacOS:
+        ```
+        $ robot --version
+        ```
+    * Windows:
+        ```
+        ...\> robot --version
+        ``` 
 
 ### How to run the tests and verify it is working
 1. **Dowload ChromeDriver** [*See how to dowload chromedriver and set path to your machine*.](https://github.com/PitchapaSaelim/vaccine-web-tests#how-to-dowload-chromedriver-and-set-path-to-your-machine)
