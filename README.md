@@ -112,6 +112,7 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
 ***
 
 ## Tutorial or online resource(s)
+* [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
 * [Selenium2Library](https://robotframework.org/Selenium2Library/Selenium2Library.html#Open%20Browser)
 * [Robot Framework Quick Start Guide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
 * [มาเริ่มต้นเขียน Automate Robot Framework with SeleniumLibrary และ ทำ Workshop Login Facebook กันเถอะ](https://iamgique.medium.com/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-automate-robot-framework-with-selenium2library-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%97%E0%B8%B3-workshop-login-facebook-cbcbbcc6abf8) (*This is a Thai website that I use to understand the structure of Robot Framework. I think this website is well explained, clear, and easy to understand.*)
