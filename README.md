@@ -64,7 +64,7 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
     ``` 
     > Description of the require packages
     * **robotframework-seleniumlibrary** is a web testing library for Robot Framework. This document explains how to use keywords provided by SeleniumLibrary.
-    
+
 * Check Robot Version to verify your installation 
     * Linux/MacOS:
         ```
@@ -117,7 +117,7 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
 ## Q & A
 * Which do you think is a better framework for E2E testing of web applications or web services: Robot Framework or Cucumber with Selenium/HTTP library and JUnit?
 
-    > **Answer:** In my opinion, I think **Robot Framework** is better than Cucumber with Selenium/HTTP library and JUnit because it's a test that has instructions to use to create a test that is easy to read, understand, and clear, although some syntax is maybe a little more complicated but it has a document that clearly provides information and examples of use. It is also a test that is suitable for testing clear and concrete application web pages and testing even the smallest details on that page as well.
+    > **Answer:** In my opinion, I think **Robot Framework** is better than Cucumber with Selenium/HTTP library and JUnit because it's a test that has instructions to use to create a test that is easy to read, understand, and clear, although some syntax is maybe a little more complicated but it has a document that clearly provides information and examples of use. It is also a test that is suitable for testing clear and concrete application web pages and testing even the smallest details on that page as well. And there is also a very clever function that when we write a wrong test, Robot Framework will put a screenshot in the folder of where we are wrong and on which page of the web page, which is useful to help us know where did we go wrong.
 
 ***
 
