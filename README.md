@@ -61,10 +61,6 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
 1. **Clone** vaccine web tests to your machine. [*See how to clone the tests.*](https://github.com/PitchapaSaelim/vaccine-web-tests#how-to-clone-vaccine-web-tests)
 2. Follows the [**steps needed to configure the tests for running**](https://github.com/PitchapaSaelim/vaccine-web-tests#steps-needed-to-configure-the-tests-for-running).
 3. Access to a command-line/terminal window.
-    * Change directory to the directory that contain `vaccine-web-tests` folder.
-        ```
-        cmd> cd vaccine-web-tests
-        ```
     * Run the tests
         * Linux/MacOS:
             ```
