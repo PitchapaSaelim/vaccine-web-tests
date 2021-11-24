@@ -23,7 +23,7 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
 ## How to run tests
 ### How to dowload chromedriver and set path to your machine
 * Check your chrome version
-    * Go to [Chrome Settings](chrome://settings/) > Go to [About Chrome](chrome://settings/help) > *See your version*
+    * Go to `Chrome Settings` > Go to `About Chrome` > *See your version*
 * Dowload the version of ChromeDriver that matches your version
     * [ChromeDriver - WebDriver for Chrome - Downloads](https://chromedriver.chromium.org/downloads)
 * Set path of ChromeDriver to your machine
