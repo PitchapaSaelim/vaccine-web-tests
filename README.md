@@ -21,6 +21,14 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
 ***
 
 ## How to run tests
+### How to dowload chromedriver and set path to your machine
+* Check your chrome version
+    * Go to [Chrome Settings](chrome://settings/) > Go to [About Chrome](chrome://settings/help) > *See your version*
+* Dowload the version of ChromeDriver that matches your version
+    * [ChromeDriver - WebDriver for Chrome - Downloads](https://chromedriver.chromium.org/downloads)
+* Set path of ChromeDriver to your machine
+    * [Windows](https://www.java.com/en/download/help/path.html)
+    * [MacOS](https://www.cyberciti.biz/faq/appleosx-bash-unix-change-set-path-environment-variable/)
 ### How to clone [Vaccine Web Tests](https://github.com/PitchapaSaelim/vaccine-web-tests)
 * Access to a command-line/terminal window.
     * Linux:
@@ -58,6 +66,7 @@ Tests Using [Robot Framework](https://robotframework.org/) for [3AM app](https:/
     * **robotframework-seleniumlibrary** is a web testing library for Robot Framework. This document explains how to use keywords provided by SeleniumLibrary.
 
 ### How to run the tests and verify it is working
+1. **Dowload ChromeDriver** [*See how to dowload chromedriver and set path to your machine*.](https://github.com/PitchapaSaelim/vaccine-web-tests#how-to-dowload-chromedriver-and-set-path-to-your-machine)
 1. **Clone** vaccine web tests to your machine. [*See how to clone the tests.*](https://github.com/PitchapaSaelim/vaccine-web-tests#how-to-clone-vaccine-web-tests)
 2. Follows the [**steps needed to configure the tests for running**](https://github.com/PitchapaSaelim/vaccine-web-tests#steps-needed-to-configure-the-tests-for-running).
 3. Access to a command-line/terminal window.
